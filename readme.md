@@ -1,9 +1,5 @@
 # Landing Page - Everypay
 
-## Deploy
-
-https://vizereth.github.io/test-adict
-
 ## Project setup
 ```
 npm install
